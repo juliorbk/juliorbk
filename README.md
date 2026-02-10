@@ -16,7 +16,7 @@
 I am a passionate **Informatic Engineering student** at [UNEG](https://uneg.edu.ve/), currently focusing on building robust and scalable **Backend** solutions.
 
 - 🌍 I speak **English & Spanish**.
-- ⚙️ Currently diving deep into **Node.js, Python**, and Backend architecture.
+- ⚙️ Currently diving deep into **Java with SpringBoot**, and Backend architecture.
 - 🚀 I love creating efficient systems and optimizing performance.
 - 🎓 Finalizing my degree in Venezuela.
 
@@ -44,14 +44,14 @@ I am a passionate **Informatic Engineering student** at [UNEG](https://uneg.edu.
 ### 📂 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Jsuarez04/buscaminas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=buscaminas&theme=tokyonight" />
+  <a href="https://github.com/Jsuarez04/rbk-music-player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=rbk-music-player&theme=tokyonight" />
   </a>
   <a href="https://github.com/Jsuarez04/RBK_CurrencyConverter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=RBK_CurrencyConverter&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Jsuarez04/yoko/tree/master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=yoko/tree/master&theme=tokyonight" />
+  <a href="https://github.com/Jsuarez04/domoticScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=domoticScript&theme=tokyonight" />
   </a>
   <a href="https://github.com/Jsuarez04/lucruz/tree/master">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=lucruz/tree/master&theme=tokyonight" />
