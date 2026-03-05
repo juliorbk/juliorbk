@@ -18,5 +18,5 @@ I am a passionate **Informatic Engineering student** at [UNEG](https://uneg.edu.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
+### 😜 My Contributions
 ![Pacman](https://raw.githubusercontent.com/juliorbk/juliorbk/output/pacman-contribution-graph.svg)
