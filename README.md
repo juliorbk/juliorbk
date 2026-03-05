@@ -19,5 +19,4 @@ I am a passionate **Informatic Engineering student** at [UNEG](https://uneg.edu.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Pacman](https://raw.githubusercontent.com/juliorbk/juliorbk/output/pacman-contribution-graph.svg)
