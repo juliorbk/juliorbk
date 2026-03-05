@@ -1,84 +1,23 @@
-<h1 align="center">Hi, I'm Julio Suarez 👋</h1>
-<p align="center">
-  <strong>Backend Developer & Informatic Engineering Student</strong>
-</p>
+# 💫 About Me:
+I am a passionate **Informatic Engineering student** at [UNEG](https://uneg.edu.ve/), currently focusing on building robust and scalable **Backend** solutions.<br><br>- 🌍 I speak **English & Spanish**.<br>- ⚙️ Currently diving deep into **Java with SpringBoot**, and Backend architecture.<br>- 🚀 I love creating efficient systems and optimizing performance.<br>- 🎓 Finalizing my degree in Venezuela.<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/julio-suarez-6a08a0273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:juliorubinsky04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julio_rbk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliorbk-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliorbk.dev@gmail.com) 
 
-### 👨‍💻 About Me
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=juliorbk&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=juliorbk&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliorbk&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I am a passionate **Informatic Engineering student** at [UNEG](https://uneg.edu.ve/), currently focusing on building robust and scalable **Backend** solutions.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=juliorbk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌍 I speak **English & Spanish**.
-- ⚙️ Currently diving deep into **Java with SpringBoot**, and Backend architecture.
-- 🚀 I love creating efficient systems and optimizing performance.
-- 🎓 Finalizing my degree in Venezuela.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br>
 
-### 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="300"><strong>Languages</strong></td>
-    <td align="center" width="300"><strong>Databases & Tools</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,py,js,cs,cpp,c" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,dotnet" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📂 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Jsuarez04/rbk-music-player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=rbk-music-player&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Jsuarez04/RBK_CurrencyConverter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=RBK_CurrencyConverter&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Jsuarez04/domoticScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=domoticScript&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Jsuarez04/lucruz/tree/master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=lucruz/tree/master&theme=tokyonight" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsuarez04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsuarez04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsuarez04&theme=vue-dark&hide_border=true" width="87%" />
-</p>
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://www.instagram.com/julio_rbk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.twitch.tv/julio_rbk"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/21304875"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
