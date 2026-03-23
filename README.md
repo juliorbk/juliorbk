@@ -33,7 +33,7 @@ I am a passionate **Informatic Engineering student** at [UNEG](https://uneg.edu.
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliorbk&layout=compact&theme=dracula&hide=python,cython" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliorbk&layout=compact&theme=dracula&hide=python,cython,c,c++,c#,html,ps,md" alt="Top Languages" />
 </div>
 
 > **Note:** Python is hidden from the languages chart to highlight my current focus on Java and Backend development.
