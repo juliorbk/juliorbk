@@ -28,11 +28,6 @@ I am a passionate **Informatic Engineering student** at [UNEG](https://uneg.edu.
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliorbk&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Julio Stats" />
-  
-  <br/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliorbk&layout=compact&theme=dracula&hide=python,cython,c,c++,c#,html,ps,md" alt="Top Languages" />
 </div>
 
